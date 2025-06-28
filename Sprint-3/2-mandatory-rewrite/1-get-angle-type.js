@@ -8,7 +8,9 @@ function getAngleType(angle) {
 
   // replace with your completed function from key-implement
 }
-  
+// This function determines the type of angle based on its degree measurement
+// it returns string description of the angle type.
+
 // Don't get bogged down in this detail
 // Jest uses CommonJS module syntax by default as it's quite old
 // We will upgrade our approach to ES6 modules in the next course module, so for now
